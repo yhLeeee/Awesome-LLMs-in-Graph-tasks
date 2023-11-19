@@ -119,7 +119,7 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
 If you have come across relevant resources, feel free to open an issue or submit a pull request.
 
 ```
-* (_time_)c[conference] **paper_name** [[Paper](link) | [Code](link)]
+* (_time_) [conference] **paper_name** [[Paper](link) | [Code](link)]
    <details close>
    <summary>Model name</summary>
    <p align="center"><img width="75%" src="Figures/xxx.jpg" /></p>
