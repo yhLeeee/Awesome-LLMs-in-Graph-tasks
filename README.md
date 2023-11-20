@@ -214,7 +214,7 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    </details>
 
 ## GNN-LLM Alignment
-* (_2020.08_) [CoRR' 2020] **Graph-based Modeling of Online Communities for Fake News Detection** [[Paper](https://arxiv.org/abs/2008.06274) | [Code](https://github.com/shaanchandra/SAFER)]
+* (_2020.08_) [Arxiv' 2020] **Graph-based Modeling of Online Communities for Fake News Detection** [[Paper](https://arxiv.org/abs/2008.06274) | [Code](https://github.com/shaanchandra/SAFER)]
    <details close>
    <summary>SAFER</summary>
    <p align="center"><img width="75%" src="Figures/SAFER.jpg" /></p>
@@ -233,12 +233,40 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><img width="75%" src="Figures/Text2Mol.jpg" /></p>
    <p align="center"><em>The framework of Text2Mol.</em></p>
    </details>
-* (_2022.09_) [CoRR' 2022] **A Molecular Multimodal Foundation Model Associating Molecule Graphs with Natural Language** 
+* (_2022.09_) [Arxiv' 2022] **A Molecular Multimodal Foundation Model Associating Molecule Graphs with Natural Language** 
 [[Paper](https://arxiv.org/abs/2209.05481) | [Code](https://github.com/BingSu12/MoMu)]
    <details close>
    <summary>MoMu</summary>
    <p align="center"><img width="75%" src="Figures/MoMu.jpg" /></p>
    <p align="center"><em>The framework of MoMu.</em></p>
+   </details>
+* (_2022.10_) [ICLR' 2023] **Learning on Large-scale Text-attributed Graphs via Variational Inference** 
+[[Paper](https://arxiv.org/abs/2210.14709) | [Code](https://github.com/AndyJZhao/GLEM)]
+   <details close>
+   <summary>GLEM</summary>
+   <p align="center"><img width="75%" src="Figures/GLEM.jpg" /></p>
+   <p align="center"><em>The framework of GLEM.</em></p>
+   </details>
+* (_2022.12_) [NMI' 2023] **Multi-modal Molecule Structure-text Model for Text-based Editing and Retrieval** 
+[[Paper](https://arxiv.org/abs/2212.10789) | [Code](https://github.com/chao1224/MoleculeSTM)]
+   <details close>
+   <summary>MoleculeSTM</summary>
+   <p align="center"><img width="75%" src="Figures/MoleculeSTM.jpg" /></p>
+   <p align="center"><em>The framework of MoleculeSTM.</em></p>
+   </details>
+* (_2023.04_) [Arxiv' 2023] **Train Your Own GNN Teacher: Graph-Aware Distillation on Textual Graphs** 
+[[Paper](https://arxiv.org/abs/2304.10668) | [Code](https://github.com/cmavro/GRAD)]
+   <details close>
+   <summary>GRAD</summary>
+   <p align="center"><img width="75%" src="Figures/GRAD.jpg" /></p>
+   <p align="center"><em>The framework of GRAD.</em></p>
+   </details>
+* (_2023.07_) [Arxiv' 2023] **Prompt Tuning on Graph-augmented Low-resource Text Classification** 
+[[Paper](https://arxiv.org/abs/2307.10230) | [Code](https://github.com/WenZhihao666/G2P2-conditional)]
+   <details close>
+   <summary>G2P2</summary>
+   <p align="center"><img width="75%" src="Figures/G2P2.jpg" /></p>
+   <p align="center"><em>The framework of G2P2.</em></p>
    </details>
 
 ## Others
