@@ -220,7 +220,7 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><img width="75%" src="Figures/SAFER.jpg" /></p>
    <p align="center"><em>The framework of SAFER.</em></p>
    </details>
-* (_2021.5_) [NeurIPS' 2021] **GraphFormers: GNN-nested Transformers for Representation Learning on Textual Graph** [[Paper](https://arxiv.org/abs/2105.02605) | [Code](https://github.com/microsoft/GraphFormers)]
+* (_2021.05_) [NeurIPS' 2021] **GraphFormers: GNN-nested Transformers for Representation Learning on Textual Graph** [[Paper](https://arxiv.org/abs/2105.02605) | [Code](https://github.com/microsoft/GraphFormers)]
    <details close>
    <summary>GraphFormers</summary>
    <p align="center"><img width="75%" src="Figures/GraphFormers.jpg" /></p>
@@ -232,6 +232,13 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <summary>Text2Mol</summary>
    <p align="center"><img width="75%" src="Figures/Text2Mol.jpg" /></p>
    <p align="center"><em>The framework of Text2Mol.</em></p>
+   </details>
+* (_2022.09_) [CoRR' 2022] **A Molecular Multimodal Foundation Model Associating Molecule Graphs with Natural Language** 
+[[Paper](https://arxiv.org/abs/2209.05481) | [Code](https://github.com/BingSu12/MoMu)]
+   <details close>
+   <summary>MoMu</summary>
+   <p align="center"><img width="75%" src="Figures/MoMu.jpg" /></p>
+   <p align="center"><em>The framework of MoMu.</em></p>
    </details>
 
 ## Others
