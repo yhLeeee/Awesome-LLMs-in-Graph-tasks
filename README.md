@@ -214,6 +214,12 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    </details>
 
 ## GNN-LLM Alignment
+* (_2020.08_) [CoRR' 2020] **Graph-based Modeling of Online Communities for Fake News Detection** [[Paper](https://arxiv.org/abs/2008.06274) | [Code](https://github.com/shaanchandra/SAFER)]
+   <details close>
+   <summary>NLGraph</summary>
+   <p align="center"><img width="75%" src="Figures/SAFER.jpg" /></p>
+   <p align="center"><em>The framework of SAFER.</em></p>
+   </details>
 
 
 ## Others
