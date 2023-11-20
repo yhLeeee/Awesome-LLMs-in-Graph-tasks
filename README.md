@@ -216,17 +216,23 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
 ## GNN-LLM Alignment
 * (_2020.08_) [CoRR' 2020] **Graph-based Modeling of Online Communities for Fake News Detection** [[Paper](https://arxiv.org/abs/2008.06274) | [Code](https://github.com/shaanchandra/SAFER)]
    <details close>
-   <summary>NLGraph</summary>
+   <summary>SAFER</summary>
    <p align="center"><img width="75%" src="Figures/SAFER.jpg" /></p>
    <p align="center"><em>The framework of SAFER.</em></p>
    </details>
-* (_2021.12_) [NeurIPS' 2021] **GraphFormers: GNN-nested Transformers for Representation Learning on Textual Graph** [[Paper](https://arxiv.org/abs/2105.02605) | [Code](https://github.com/microsoft/GraphFormers)]
+* (_2021.5_) [NeurIPS' 2021] **GraphFormers: GNN-nested Transformers for Representation Learning on Textual Graph** [[Paper](https://arxiv.org/abs/2105.02605) | [Code](https://github.com/microsoft/GraphFormers)]
    <details close>
-   <summary>NLGraph</summary>
+   <summary>GraphFormers</summary>
    <p align="center"><img width="75%" src="Figures/GraphFormers.jpg" /></p>
-   <p align="center"><em>The framework of SAFER.</em></p>
+   <p align="center"><em>The framework of GraphFormers.</em></p>
    </details>
-
+* (_2021.11_) [EMNLP' 2021] **Text2Mol: Cross-Modal Molecule Retrieval with Natural Language Queries** 
+[[Paper](https://aclanthology.org/2021.emnlp-main.47/) | [Code](https://github.com/cnedwards/text2mol)]
+   <details close>
+   <summary>Text2Mol</summary>
+   <p align="center"><img width="75%" src="Figures/Text2Mol.jpg" /></p>
+   <p align="center"><em>The framework of Text2Mol.</em></p>
+   </details>
 
 ## Others
 
