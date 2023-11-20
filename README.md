@@ -261,12 +261,33 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><img width="75%" src="Figures/GRAD.jpg" /></p>
    <p align="center"><em>The framework of GRAD.</em></p>
    </details>
+* (_2023.05_) [ACL' 2023] **PATTON : Language Model Pretraining on Text-Rich Networks** 
+[[Paper](https://arxiv.org/abs/2305.12268) | [Code](https://github.com/PeterGriffinJin/Patton)]
+   <details close>
+   <summary>Patton</summary>
+   <p align="center"><img width="75%" src="Figures/Patton.jpg" /></p>
+   <p align="center"><em>The framework of Patton.</em></p>
+   </details>
+* (_2023.05_) [Arxiv' 2023] **ConGraT: Self-Supervised Contrastive Pretraining for Joint Graph and Text Embeddings** 
+[[Paper](https://arxiv.org/abs/2305.14321) | [Code](https://github.com/wwbrannon/congrat)]
+   <details close>
+   <summary>ConGraT</summary>
+   <p align="center"><img width="75%" src="Figures/ConGraT.jpg" /></p>
+   <p align="center"><em>The framework of ConGraT.</em></p>
+   </details>
 * (_2023.07_) [Arxiv' 2023] **Prompt Tuning on Graph-augmented Low-resource Text Classification** 
 [[Paper](https://arxiv.org/abs/2307.10230) | [Code](https://github.com/WenZhihao666/G2P2-conditional)]
    <details close>
    <summary>G2P2</summary>
    <p align="center"><img width="75%" src="Figures/G2P2.jpg" /></p>
    <p align="center"><em>The framework of G2P2.</em></p>
+   </details>
+* (_2023.10_) [Arxiv' 2023] **GRENADE: Graph-Centric Language Model for Self-Supervised Representation Learning on Text-Attributed Graphs** 
+[[Paper](https://arxiv.org/abs/2310.15109) | [Code](https://github.com/bigheiniu/GRENADE)]
+   <details close>
+   <summary>GRENADE</summary>
+   <p align="center"><img width="75%" src="Figures/GRENADE.jpg" /></p>
+   <p align="center"><em>The framework of GRENADE.</em></p>
    </details>
 
 ## Others
