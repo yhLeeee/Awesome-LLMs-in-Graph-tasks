@@ -9,10 +9,18 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
 <p align="center"><img src="Figures/overview.png" width=75% height=75%></p>
 <p align="center"><em>Figure 1.</em> The overview of Graph Meets LLMs.</p>
 
+
+## Summarizations based on proposed taxonomy
+
+<p align="center"><img src="Figures/summarization.png" width=75% height=75%></p>
+
+<p align="left"><em>Table 1.</em> A summary of models that leverage LLMs to assist graph-related tasks in literature, ordered by their release time. <b>Fine-tuning</b> denotes whether it is necessary to fine-tune the parameters of LLMs, and &hearts; indicates that models employ parameter-efficient fine-tuning (PEFT) strategies, such as LoRA and prefix tuning. <b>Prompting</b> indicates the use of text-formatted prompts in LLMs, done manually or automatically. Acronyms in <b>Task</b>: Node refers to node-level tasks; Link refers to link-level tasks; Graph refers to graph-level tasks; Reasoning refers to Graph Reasoning; Retrieval refers to Graph-Text Retrieval; Captioning refers to Graph Captioning.</p >
+
 ## Table of Contents
 
 - [Awesome-LLMs-in-Graph-tasks](#awesome-llms-in-graph-tasks)
   - [How can LLMs help improve graph-related tasks](#how-can-llms-help-improve-graph-related-tasks)
+  - [Summarizations based on proposed taxonomy](#summarizations-based-on-proposed-taxonomy)
   - [Table of Contents](#table-of-contents)
   - [LLM as Enhancer](#llm-as-enhancer)
   - [LLM as Predictor](#llm-as-predictor)
@@ -319,12 +327,6 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><em>The framework of ENG.</em></p>
    </details>
 
-
-## Summarizations based on proposed taxonomy
-
-<p align="center"><img src="Figures/summarization.png" width=75% height=75%></p>
-
-<p align="left"><em>Table 1.</em> A summary of models that leverage LLMs to assist graph-related tasks in literature, ordered by their release time. <b>Fine-tuning</b> denotes whether it is necessary to fine-tune the parameters of LLMs, and &hearts; indicates that models employ parameter-efficient fine-tuning (PEFT) strategies, such as LoRA and prefix tuning. <b>Prompting</b> indicates the use of text-formatted prompts in LLMs, done manually or automatically. Acronyms in <b>Task</b>: Node refers to node-level tasks; Link refers to link-level tasks; Graph refers to graph-level tasks; Reasoning refers to Graph Reasoning; Retrieval refers to Graph-Text Retrieval; Captioning refers to Graph Captioning.</p >
 
 
 ## Contributing
