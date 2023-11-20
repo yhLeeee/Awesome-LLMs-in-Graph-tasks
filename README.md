@@ -22,7 +22,7 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
 
 
 ## LLM as Enhancer
-* (_2022.03_) [ICLR‘ 2022] **Node Feature Extraction by Self-Supervised Multi-scale Neighborhood Prediction** [[Paper](https://arxiv.org/abs/2111.00064) | [Code](https://github.com/amzn/pecos/tree/mainline/examples/giant-xrt)]
+* (_2022.03_) [ICLR' 2022] **Node Feature Extraction by Self-Supervised Multi-scale Neighborhood Prediction** [[Paper](https://arxiv.org/abs/2111.00064) | [Code](https://github.com/amzn/pecos/tree/mainline/examples/giant-xrt)]
    <details close>
    <summary>GIANT</summary>
    <p align="center"><img width="75%" src="Figures/GIANT.jpg" /></p>
@@ -108,6 +108,13 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    </details>
 
 ## LLM as Predictor
+
+* (_2023.05_) [NeurIPS' 2023] **Can language models solve graph problems in natural language?** [[Paper](https://arxiv.org/abs/2305.10037) | [Code](https://github.com/Arthur-Heng/NLGraph)]
+   <details close>
+   <summary>METERN</summary>
+   <p align="center"><img width="75%" src="Figures/NLGraph.jpg" /></p>
+   <p align="center"><em>The framework of NLGraph.</em></p>
+   </details>
 
 
 ## GNN-LLM Alignment
