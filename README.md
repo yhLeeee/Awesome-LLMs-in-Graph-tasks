@@ -111,17 +111,138 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
 
 * (_2023.05_) [NeurIPS' 2023] **Can language models solve graph problems in natural language?** [[Paper](https://arxiv.org/abs/2305.10037) | [Code](https://github.com/Arthur-Heng/NLGraph)]
    <details close>
-   <summary>METERN</summary>
+   <summary>NLGraph</summary>
    <p align="center"><img width="75%" src="Figures/NLGraph.jpg" /></p>
    <p align="center"><em>The framework of NLGraph.</em></p>
    </details>
-
+* (_2023.05_) [Arxiv' 2023] **GPT4Graph: Can Large Language Models Understand Graph Structured Data? An Empirical Evaluation and Benchmarking** [[Paper](https://arxiv.org/abs/2305.15066) | [Code](https://anonymous.4open.science/r/GPT4Graph)]
+   <details close>
+   <summary>GPT4Graph</summary>
+   <p align="center"><img width="75%" src="Figures/GPT4Graph.png" /></p>
+   <p align="center"><em>The framework of GPT4Graph.</em></p>
+   </details>
+* (_2023.06_) [NeurIPS' 2023] **GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning** [[Paper](https://arxiv.org/abs/2306.13089) | [Code](https://github.com/zhao-ht/GIMLET)]
+   <details close>
+   <summary>GIMLET</summary>
+   <p align="center"><img width="75%" src="Figures/GIMLET.jpg" /></p>
+   <p align="center"><em>The framework of GIMLET.</em></p>
+   </details>
+* (_2023.07_) [Arxiv' 2023] **Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs** [[Paper](https://arxiv.org/abs/2307.03393) | [Code](https://github.com/CurryTang/Graph-LLM)]
+   <details close>
+   <summary>Framework</summary>
+   <p align="center"><img width="75%" src="Figures/Chen et al.jpg" /></p>
+   <p align="center"><em>The designed prompts of Chen et al.</em></p>
+   </details>
+* (_2023.08_) [Arxiv' 2023] **GIT-Mol: A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text** [[Paper](https://arxiv.org/abs/2308.06911)]
+   <details close>
+   <summary>GIT-Mol</summary>
+   <p align="center"><img width="75%" src="Figures/GIT-Mol.jpg" /></p>
+   <p align="center"><em>The framework of GIT-Mol.</em></p>
+   </details>
+* (_2023.08_) [Arxiv' 2023] **Natural Language is All a Graph Needs** [[Paper](http://arxiv.org/abs/2308.07134) | [Code](https://github.com/Graphlet-AI/llm-graph-ai)]
+   <details close>
+   <summary>InstructGLM</summary>
+   <p align="center"><img width="75%" src="Figures/InstructGLM.jpg" /></p>
+   <p align="center"><em>The framework of InstructGLM.</em></p>
+   </details>
+* (_2023.08_) [Arxiv' 2023] **Evaluating Large Language Models on Graphs: Performance Insights and Comparative Analysis** [[Paper](https://arxiv.org/abs/2308.11224) | [Code](https://github.com/Ayame1006/LLMtoGraph)]
+   <details close>
+   <summary>Framework</summary>
+   <p align="center"><img width="75%" src="Figures/Liu et al.jpg" /></p>
+   <p align="center"><em>The designed prompts of Liu et al.</em></p>
+   </details>
+* (_2023.09_) [Arxiv' 2023] **Can LLMs Effectively Leverage Graph Structural Information: When and Why** [[Paper](https://arxiv.org/abs/2309.16595) | [Code](https://github.com/TRAIS-Lab/LLM-Structured-Data)]
+   <details close>
+   <summary>Framework</summary>
+   <p align="center"><img width="75%" src="Figures/Huang et al.jpg" /></p>
+   <p align="center"><em>The designed prompts of Huang et al.</em></p>
+   </details>
+* (_2023.10_) [Arxiv' 2023] **GraphText: Graph Reasoning in Text Space** [[Paper](https://arxiv.org/abs/2310.01089)]
+   <details close>
+   <summary>GraphText</summary>
+   <p align="center"><img width="75%" src="Figures/GraphText.jpg" /></p>
+   <p align="center"><em>The framework of GraphText.</em></p>
+   </details>
+* (_2023.10_) [Arxiv' 2023] **Talk like a Graph: Encoding Graphs for Large Language Models** [[Paper](https://arxiv.org/abs/2310.04560)]
+   <details close>
+   <summary>Framework</summary>
+   <p align="center"><img width="75%" src="Figures/Fatemi et al.jpg" /></p>
+   <p align="center"><em>The designed prompts of Fatemi et al.</em></p>
+   </details>
+* (_2023.10_) [Arxiv' 2023] **GraphLLM: Boosting Graph Reasoning Ability of Large Language Model** [[Paper](https://arxiv.org/abs/2310.05845) | [Code](https://github.com/mistyreed63849/Graph-LLM)]
+   <details close>
+   <summary>GraphLLM</summary>
+   <p align="center"><img width="75%" src="Figures/GraphLLM.jpg" /></p>
+   <p align="center"><em>The framework of GraphLLM.</em></p>
+   </details>
+* (_2023.10_) [Arxiv' 2023] **Beyond Text: A Deep Dive into Large Language Model** [[Paper](https://arxiv.org/abs/2310.04944)]
+   <details close>
+   <summary>Framework</summary>
+   <p align="center"><img width="75%" src="Figures/Hu et al.jpg" /></p>
+   <p align="center"><em>The designed prompts of Hu et al.</em></p>
+   </details>
+* (_2023.10_) [EMNLP' 2023] **MolCA: Molecular Graph-Language Modeling with Cross-Modal Projector and Uni-Modal Adapter** [[Paper](https://arxiv.org/abs/2310.12798) | [Code](https://github.com/acharkq/MolCA)]
+   <details close>
+   <summary>MolCA</summary>
+   <p align="center"><img width="75%" src="Figures/MolCA.jpg" /></p>
+   <p align="center"><em>The framework of MolCA.</em></p>
+   </details>
+* (_2023.10_) [Arxiv' 2023] **GraphGPT: Graph Instruction Tuning for Large Language Models** [[Paper](https://arxiv.org/abs/2310.13023v1) | [Code](https://github.com/HKUDS/GraphGPT)]
+   <details close>
+   <summary>GraphGPT</summary>
+   <p align="center"><img width="75%" src="Figures/GraphGPT.jpg" /></p>
+   <p align="center"><em>The framework of GraphGPT.</em></p>
+   </details>
+* (_2023.10_) [EMNLP' 2023] **ReLM: Leveraging Language Models for Enhanced Chemical Reaction Prediction** [[Paper](https://arxiv.org/pdf/2310.13590.pdf) | [Code](https://github.com/syr-cn/ReLM)]
+   <details close>
+   <summary>ReLM</summary>
+   <p align="center"><img width="75%" src="Figures/ReLM.jpg" /></p>
+   <p align="center"><em>The framework of ReLM.</em></p>
+   </details>
+* (_2023.10_) [Arxiv' 2023] **LLM4DyG: Can Large Language Models Solve Problems on Dynamic Graphs?** [[Paper](https://arxiv.org/pdf/2310.17110.pdf)]
+   <details close>
+   <summary>LLM4DyG</summary>
+   <p align="center"><img width="75%" src="Figures/LLM4DyG.jpg" /></p>
+   <p align="center"><em>The framework of LLM4DyG.</em></p>
+   </details>
+* (_2023.10_) [Arxiv' 2023] **Disentangled Representation Learning with Large Language Models for Text-Attributed Graphs** [[Paper](https://arxiv.org/abs/2310.18152)]
+   <details close>
+   <summary>DGTL</summary>
+   <p align="center"><img width="75%" src="Figures/DGTL.jpg" /></p>
+   <p align="center"><em>The framework of DGTL.</em></p>
+   </details>
 
 ## GNN-LLM Alignment
 
 
 ## Others
 
+### LLM as Annotator
+
+* (_2023.10_) [Arxiv' 2023] **Label-free Node Classification on Graphs with Large Language Models (LLMs)** [[Paper](https://arxiv.org/abs/2310.18152) | [Code](https://github.com/CurryTang/LLMGNN)]
+   <details close>
+   <summary>LLM-GNN</summary>
+   <p align="center"><img width="75%" src="Figures/LLM-GNN.jpg" /></p>
+   <p align="center"><em>The framework of LLM-GNN.</em></p>
+   </details>
+
+### LLM as Controller
+
+* (_2023.10_) [Arxiv' 2023] **Graph Neural Architecture Search with GPT-4** [[Paper](https://arxiv.org/abs/2310.01436)]
+   <details close>
+   <summary>GPT4GNAS</summary>
+   <p align="center"><img width="75%" src="Figures/GPT4GNAS.jpg" /></p>
+   <p align="center"><em>The framework of GPT4GNAS.</em></p>
+   </details>
+
+### LLM as Sample Generator
+
+* (_2023.10_) [Arxiv' 2023] **Empower Text-Attributed Graphs Learning with Large Language Models (LLMs)** [[Paper](https://arxiv.org/abs/2310.09872)]
+   <details close>
+   <summary>ENG</summary>
+   <p align="center"><img width="75%" src="Figures/ENG.jpg" /></p>
+   <p align="center"><em>The framework of ENG.</em></p>
+   </details>
 ## Contributing
 If you have come across relevant resources, feel free to open an issue or submit a pull request.
 
