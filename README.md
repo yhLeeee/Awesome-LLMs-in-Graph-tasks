@@ -220,6 +220,12 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><img width="75%" src="Figures/SAFER.jpg" /></p>
    <p align="center"><em>The framework of SAFER.</em></p>
    </details>
+* (_2021.12_) [NeurIPS' 2021] **GraphFormers: GNN-nested Transformers for Representation Learning on Textual Graph** [[Paper](https://arxiv.org/abs/2105.02605) | [Code](https://github.com/microsoft/GraphFormers)]
+   <details close>
+   <summary>NLGraph</summary>
+   <p align="center"><img width="75%" src="Figures/GraphFormers.jpg" /></p>
+   <p align="center"><em>The framework of SAFER.</em></p>
+   </details>
 
 
 ## Others
