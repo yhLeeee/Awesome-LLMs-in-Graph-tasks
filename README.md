@@ -1,4 +1,4 @@
-<h2 align="center"> Awesome-LLMs-in-Graph-tasks </a></h2>
+<h1 align="center"> Awesome-LLMs-in-Graph-tasks </a></h2>
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
 <h5 align="center">
