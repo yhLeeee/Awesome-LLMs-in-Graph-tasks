@@ -35,7 +35,6 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
   - [LLM as Enhancer](#llm-as-enhancer)
   - [LLM as Predictor](#llm-as-predictor)
   - [GNN-LLM Alignment](#gnn-llm-alignment)
-  - [Summarizations](#summarizations-based-on-proposed-taxonomy)
   - [Others](#others)
   - [Contributing](#contributing)
 
