@@ -1,6 +1,16 @@
-# Awesome-LLMs-in-Graph-tasks
+<h2 align="center"> Awesome-LLMs-in-Graph-tasks </a></h2>
+<h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
+
+<h5 align="center">
+
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ![GitHub stars](https://img.shields.io/github/stars/yhLeeee/Awesome-LLMs-in-Graph-tasks.svg)
-> A collection of papers on **Large Language Models in Graph Tasks**. We will try to make this list updated frequently. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
+
+</h5>
+
+> This is a collection of papers on leveraging **Large Language Models** in **Graph Tasks**. 
+It's based on our survey paper: [A Survey of Graph Meets Large Language Model: Progress and Future Directions](). 
+
+> We will try to make this list updated frequently. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
 
 ## How can LLMs help improve graph-related tasks?
 
