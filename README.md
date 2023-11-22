@@ -8,7 +8,7 @@
 </h5>
 
 > This is a collection of papers on leveraging **Large Language Models** in **Graph Tasks**. 
-It's based on our survey paper: [A Survey of Graph Meets Large Language Model: Progress and Future Directions](). 
+It's based on our survey paper: [A Survey of Graph Meets Large Language Model: Progress and Future Directions](https://arxiv.org/abs/2311.12399). 
 
 > We will try to make this list updated frequently. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
 
