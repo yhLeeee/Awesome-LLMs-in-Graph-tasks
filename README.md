@@ -314,7 +314,7 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
 * (_2023.10_) [Arxiv' 2023] **Label-free Node Classification on Graphs with Large Language Models (LLMs)** [[Paper](https://arxiv.org/abs/2310.18152) | [Code](https://github.com/CurryTang/LLMGNN)]
    <details close>
    <summary>LLM-GNN</summary>
-   <p align="center"><img width="75%" src="Figures/LLM-GNN.jpg" /></p>
+   <p align="center"><img width="75%" src="Figures/LLM-GNN.png" /></p>
    <p align="center"><em>The framework of LLM-GNN.</em></p>
    </details>
 
