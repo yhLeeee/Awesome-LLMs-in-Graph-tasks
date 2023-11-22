@@ -157,7 +157,7 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><img width="75%" src="Figures/GIT-Mol.jpg" /></p>
    <p align="center"><em>The framework of GIT-Mol.</em></p>
    </details>
-* (_2023.08_) [Arxiv' 2023] **Natural Language is All a Graph Needs** [[Paper](http://arxiv.org/abs/2308.07134) | [Code](https://github.com/Graphlet-AI/llm-graph-ai)]
+* (_2023.08_) [Arxiv' 2023] **Natural Language is All a Graph Needs** [[Paper](http://arxiv.org/abs/2308.07134) | [Code](https://github.com/agiresearch/InstructGLM)]
    <details close>
    <summary>InstructGLM</summary>
    <p align="center"><img width="75%" src="Figures/InstructGLM.jpg" /></p>
