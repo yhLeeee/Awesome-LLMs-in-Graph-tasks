@@ -106,7 +106,7 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><img width="75%" src="Figures/OFA.jpg" /></p>
    <p align="center"><em>The framework of OFA.</em></p>
    </details>
-* (_2023.11_) [WSDM' 2023] **LLMRec: Large Language Models with Graph Augmentation for Recommendation** [[Paper](https://arxiv.org/abs/2311.00423) | [Code](https://github.com/HKUDS/LLMRec)]
+* (_2023.11_) [WSDM' 2024] **LLMRec: Large Language Models with Graph Augmentation for Recommendation** [[Paper](https://arxiv.org/abs/2311.00423) | [Code](https://github.com/HKUDS/LLMRec)]
    <details close>
    <summary>LLMRec</summary>
    <p align="center"><img width="75%" src="Figures/LLMRec.jpg" /></p>
