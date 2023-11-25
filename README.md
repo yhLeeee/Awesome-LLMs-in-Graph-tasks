@@ -37,6 +37,7 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
   - [GNN-LLM Alignment](#gnn-llm-alignment)
   - [Others](#others)
   - [Contributing](#contributing)
+  - [Cite Us](#cite-us)
 
 
 ## LLM as Enhancer
@@ -349,4 +350,16 @@ If you have come across relevant resources, feel free to open an issue or submit
    <p align="center"><img width="75%" src="Figures/xxx.jpg" /></p>
    <p align="center"><em>The framework of model name.</em></p>
    </details>
+```
+
+## Cite Us
+
+Feel free to cite this work if you find it useful to you!
+```
+@article{li2023survey,
+  title={A Survey of Graph Meets Large Language Model: Progress and Future Directions},
+  author={Li, Yuhan and Li, Zhixun and Wang, Peisong and Li, Jia and Sun, Xiangguo and Cheng, Hong and Yu, Jeffrey Xu},
+  journal={arXiv preprint arXiv:2311.12399},
+  year={2023}
+}
 ```
