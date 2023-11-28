@@ -337,6 +337,17 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><em>The framework of ENG.</em></p>
    </details>
 
+## Other Repos
+
+We note that several repos also summarize papers on the integration of LLMs and graphs. However, we differentiate ourselves by organizing these papers leveraging a new and more granular taxonomy. We recommend researchers to explore some repositories for a comprehensive survey.
+
+- [Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM), created by [Xiaoxin He](https://xiaoxinhe.github.io/) from NUS.
+
+- [Awesome-Large-Graph-Model](https://github.com/THUMNLab/awesome-large-graph-model), created by [Ziwei Zhang](https://zw-zhang.github.io/) from THU.
+
+We highly recommend a repository that summarizes the work on **Graph Prompt**, which is very close to Graph-LLM.
+
+- [Awesome-Graph-Prompt](https://github.com/WxxShirley/Awesome-Graph-Prompt), created by [Xixi Wu](https://wxxshirley.github.io/) from FDU.
 
 
 ## Contributing
