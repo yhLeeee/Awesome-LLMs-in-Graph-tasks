@@ -307,6 +307,13 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><img width="75%" src="Figures/GRENADE.jpg" /></p>
    <p align="center"><em>The framework of GRENADE.</em></p>
    </details>
+* (_2023.10_) [Arxiv' 2023] **Representation Learning with Large Language Models for Recommendation** 
+[[Paper](https://arxiv.org/abs/2310.15950) | [Code](https://github.com/HKUDS/RLMRec)]
+   <details close>
+   <summary>RLMRec</summary>
+   <p align="center"><img width="75%" src="Figures/RLMRec.jpg" /></p>
+   <p align="center"><em>The framework of RLMRec.</em></p>
+   </details>
 
 ## Others
 
