@@ -230,6 +230,12 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><img width="75%" src="Figures/DGTL.jpg" /></p>
    <p align="center"><em>The framework of DGTL.</em></p>
    </details>
+* (_2023.11_) [Arxiv' 2023] **Which Modality should I use -- Text, Motif, or Image? : Understanding Graphs with Large Language Models** [[Paper](https://arxiv.org/abs/2311.09862)]
+   <details close>
+   <summary>Framework</summary>
+   <p align="center"><img width="75%" src="Figures/Das et al.jpg" /></p>
+   <p align="center"><em>The framework of Das et al.</em></p>
+   </details>
 
 ## GNN-LLM Alignment
 * (_2020.08_) [Arxiv' 2020] **Graph-based Modeling of Online Communities for Fake News Detection** [[Paper](https://arxiv.org/abs/2008.06274) | [Code](https://github.com/shaanchandra/SAFER)]
@@ -342,6 +348,15 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <summary>ENG</summary>
    <p align="center"><img width="75%" src="Figures/ENG.jpg" /></p>
    <p align="center"><em>The framework of ENG.</em></p>
+   </details>
+
+### LLM as Similarity Analyzer
+
+* (_2023.11_) [Arxiv' 2023] **Large Language Models as Topological Structure Enhancers for Text-Attributed Graphs** [[Paper](https://arxiv.org/abs/2311.14324)]
+   <details close>
+   <summary>Framework</summary>
+   <p align="center"><img width="75%" src="Figures/Sun et al.jpg" /></p>
+   <p align="center"><em>The framework of Sun et al.</em></p>
    </details>
 
 ## Other Repos
