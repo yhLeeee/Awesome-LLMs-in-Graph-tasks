@@ -367,6 +367,8 @@ We note that several repos also summarize papers on the integration of LLMs and 
 
 - [Awesome-Large-Graph-Model](https://github.com/THUMNLab/awesome-large-graph-model), created by [Ziwei Zhang](https://zw-zhang.github.io/) from THU.
 
+- [Awesome-Language-Model-on-Graphs](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs), created by [Bowen Jin](https://peterjin.me/) from UIUC.
+
 We highly recommend a repository that summarizes the work on **Graph Prompt**, which is very close to Graph-LLM.
 
 - [Awesome-Graph-Prompt](https://github.com/WxxShirley/Awesome-Graph-Prompt), created by [Xixi Wu](https://wxxshirley.github.io/) from FDU.
