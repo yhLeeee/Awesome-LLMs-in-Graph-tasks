@@ -306,7 +306,7 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><img width="75%" src="Figures/G2P2.jpg" /></p>
    <p align="center"><em>The framework of G2P2.</em></p>
    </details>
-* (_2023.10_) [Arxiv' 2023] **GRENADE: Graph-Centric Language Model for Self-Supervised Representation Learning on Text-Attributed Graphs** 
+* (_2023.10_) [EMNLP' 2023] **GRENADE: Graph-Centric Language Model for Self-Supervised Representation Learning on Text-Attributed Graphs** 
 [[Paper](https://arxiv.org/abs/2310.15109) | [Code](https://github.com/bigheiniu/GRENADE)]
    <details close>
    <summary>GRENADE</summary>
@@ -320,6 +320,14 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><img width="75%" src="Figures/RLMRec.jpg" /></p>
    <p align="center"><em>The framework of RLMRec.</em></p>
    </details>
+* (_2023.10_) [EMNLP' 2023] **Pretraining Language Models with Text-Attributed Heterogeneous Graphs** 
+[[Paper](https://arxiv.org/abs/2310.12580) | [Code](https://github.com/Hope-Rita/THLM)]
+   <details close>
+   <summary>THLM</summary>
+   <p align="center"><img width="75%" src="Figures/THLM.jpg" /></p>
+   <p align="center"><em>The framework of THLM.</em></p>
+   </details>
+
 
 ## Others
 
