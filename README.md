@@ -236,6 +236,12 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><img width="75%" src="Figures/Das et al.jpg" /></p>
    <p align="center"><em>The framework of Das et al.</em></p>
    </details>
+* (_2023.11_) [Arxiv' 2023] **InstructMol: Multi-Modal Integration for Building a Versatile and Reliable Molecular Assistant in Drug Discovery** [[Paper](https://arxiv.org/abs/2311.16208)]
+   <details close>
+   <summary>InstructMol</summary>
+   <p align="center"><img width="75%" src="Figures/InstructMol.jpg" /></p>
+   <p align="center"><em>The framework of InstructMol.</em></p>
+   </details>
 
 ## GNN-LLM Alignment
 * (_2020.08_) [Arxiv' 2020] **Graph-based Modeling of Online Communities for Fake News Detection** [[Paper](https://arxiv.org/abs/2008.06274) | [Code](https://github.com/shaanchandra/SAFER)]
