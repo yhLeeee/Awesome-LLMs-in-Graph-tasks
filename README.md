@@ -65,7 +65,7 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><img width="75%" src="Figures/Heterformers.jpg" /></p>
    <p align="center"><em>The framework of Heterformer.</em></p>
    </details>
-* (_2023.05_) [Arxiv' 2023] **Harnessing Explanations: LLM-to-LM Interpreter for Enhanced Text-Attributed Graph Representation Learning** [[Paper](https://arxiv.org/abs/2305.19523) | [Code](https://github.com/XiaoxinHe/TAPE)]
+* (_2023.05_) [ICLR' 2024] **Harnessing Explanations: LLM-to-LM Interpreter for Enhanced Text-Attributed Graph Representation Learning** [[Paper](https://arxiv.org/abs/2305.19523) | [Code](https://github.com/XiaoxinHe/TAPE)]
    <details close>
    <summary>TAPE</summary>
    <p align="center"><img width="75%" src="Figures/TAPE.jpg" /></p>
@@ -101,7 +101,7 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><img width="75%" src="Figures/TouchUp-G.jpg" /></p>
    <p align="center"><em>The framework of TouchUp-G.</em></p>
    </details>
-* (_2023.09_) [Arxiv' 2023] **One for All: Towards Training One Graph Model for All Classification Tasks** [[Paper](https://arxiv.org/abs/2310.00149) | [Code](https://github.com/LechengKong/OneForAll)]
+* (_2023.09_) [ICLR' 2024] **One for All: Towards Training One Graph Model for All Classification Tasks** [[Paper](https://arxiv.org/abs/2310.00149) | [Code](https://github.com/LechengKong/OneForAll)]
    <details close>
    <summary>OFA</summary>
    <p align="center"><img width="75%" src="Figures/OFA.jpg" /></p>
@@ -339,7 +339,7 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
 
 ### LLM as Annotator
 
-* (_2023.10_) [Arxiv' 2023] **Label-free Node Classification on Graphs with Large Language Models (LLMs)** [[Paper](https://arxiv.org/abs/2310.18152) | [Code](https://github.com/CurryTang/LLMGNN)]
+* (_2023.10_) [ICLR' 2024] **Label-free Node Classification on Graphs with Large Language Models (LLMs)** [[Paper](https://arxiv.org/abs/2310.18152) | [Code](https://github.com/CurryTang/LLMGNN)]
    <details close>
    <summary>LLM-GNN</summary>
    <p align="center"><img width="75%" src="Figures/LLM-GNN.png" /></p>
