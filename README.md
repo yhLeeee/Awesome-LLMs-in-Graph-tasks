@@ -242,6 +242,12 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><img width="75%" src="Figures/InstructMol.jpg" /></p>
    <p align="center"><em>The framework of InstructMol.</em></p>
    </details>
+* (_2023.12_) [Arxiv' 2023] **When Graph Data Meets Multimodal: A New Paradigm for Graph Understanding and Reasoning y** [[Paper]https://arxiv.org/pdf/2312.10372.pdf)]
+   <details close>
+   <summary>Framework</summary>
+   <p align="center"><img width="75%" src="Figures/Ai et al.jpg" /></p>
+   <p align="center"><em>The framework of Ai et al.</em></p>
+   </details>
 
 ## GNN-LLM Alignment
 * (_2020.08_) [Arxiv' 2020] **Graph-based Modeling of Online Communities for Fake News Detection** [[Paper](https://arxiv.org/abs/2008.06274) | [Code](https://github.com/shaanchandra/SAFER)]
