@@ -125,6 +125,12 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><img width="75%" src="Figures/METERN.jpg" /></p>
    <p align="center"><em>The framework of METERN.</em></p>
    </details>
+* (_2024.02_) [Arxiv' 2024] **ZeroG: Investigating Cross-dataset Zero-shot Transferability in Graphs** [[Paper](https://arxiv.org/abs/2402.11235)]
+   <details close>
+   <summary>ZeroG</summary>
+   <p align="center"><img width="75%" src="Figures/ZeroG.jpg" /></p>
+   <p align="center"><em>The framework of ZeroG.</em></p>
+   </details>
 
 ## LLM as Predictor
 
@@ -242,11 +248,41 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><img width="75%" src="Figures/InstructMol.jpg" /></p>
    <p align="center"><em>The framework of InstructMol.</em></p>
    </details>
-* (_2023.12_) [Arxiv' 2023] **When Graph Data Meets Multimodal: A New Paradigm for Graph Understanding and Reasoning y** [[Paper]https://arxiv.org/pdf/2312.10372.pdf)]
+* (_2023.12_) [Arxiv' 2023] **When Graph Data Meets Multimodal: A New Paradigm for Graph Understanding and Reasoning** [[Paper](https://arxiv.org/pdf/2312.10372.pdf)]
    <details close>
    <summary>Framework</summary>
    <p align="center"><img width="75%" src="Figures/Ai et al.jpg" /></p>
    <p align="center"><em>The framework of Ai et al.</em></p>
+   </details>
+* (_2024.02_) [Arxiv' 2024] **Let Your Graph Do the Talking: Encoding Structured Data for LLMs** [[Paper](https://arxiv.org/abs/2402.05862)]
+   <details close>
+   <summary>GraphToken</summary>
+   <p align="center"><img width="75%" src="Figures/GraphToken.jpg" /></p>
+   <p align="center"><em>The framework of GraphToken.</em></p>
+   </details>
+* (_2024.02_) [Arxiv' 2024] **InstructGraph: Boosting Large Language Models via Graph-centric Instruction Tuning and Preference Alignment** [[Paper](https://arxiv.org/abs/2402.08785) | [Code](https://github.com/wjn1996/InstructGraph)]
+   <details close>
+   <summary>InstructGraph</summary>
+   <p align="center"><img width="75%" src="Figures/InstructGraph.jpg" /></p>
+   <p align="center"><em>The framework of InstructGraph.</em></p>
+   </details>
+* (_2024.02_) [Arxiv' 2024] **LLaGA: Large Language and Graph Assistant** [[Paper](https://arxiv.org/abs/2402.08170) | [Code](https://github.com/VITA-Group/LLaGA)]
+   <details close>
+   <summary>LLaGA</summary>
+   <p align="center"><img width="75%" src="Figures/LLaGA.jpg" /></p>
+   <p align="center"><em>The framework of LLaGA.</em></p>
+   </details>
+* (_2024.02_) [Arxiv' 2024] **HiGPT: Heterogeneous Graph Language Model** [[Paper](https://arxiv.org/abs/2402.16024) | [Code](https://github.com/HKUDS/HiGPT)]
+   <details close>
+   <summary>HiGPT</summary>
+   <p align="center"><img width="75%" src="Figures/HiGPT.jpg" /></p>
+   <p align="center"><em>The framework of HiGPT.</em></p>
+   </details>
+* (_2024.02_) [Arxiv' 2024] **GraphWiz: An Instruction-Following Language Model for Graph Problems** [[Paper](https://arxiv.org/abs/2402.16029) | [Code](https://github.com/nuochenpku/Graph-Reasoning-LLM)]
+   <details close>
+   <summary>GraphWiz</summary>
+   <p align="center"><img width="75%" src="Figures/GraphWiz.jpg" /></p>
+   <p align="center"><em>The framework of GraphWiz.</em></p>
    </details>
 
 ## GNN-LLM Alignment
