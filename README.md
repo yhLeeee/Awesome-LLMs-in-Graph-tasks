@@ -131,6 +131,12 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><img width="75%" src="Figures/ZeroG.jpg" /></p>
    <p align="center"><em>The framework of ZeroG.</em></p>
    </details>
+* (_2024.02_) [Arxiv' 2024] **UniGraph: Learning a Cross-Domain Graph Foundation Model From Natural Language** [[Paper](https://arxiv.org/abs/2402.13630)]
+   <details close>
+   <summary>UniGraph</summary>
+   <p align="center"><img width="75%" src="Figures/UniGraph.jpg" /></p>
+   <p align="center"><em>The framework of UniGraph.</em></p>
+   </details>
 
 ## LLM as Predictor
 
