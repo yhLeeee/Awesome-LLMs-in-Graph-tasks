@@ -107,6 +107,12 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><img width="75%" src="Figures/OFA.jpg" /></p>
    <p align="center"><em>The framework of OFA.</em></p>
    </details>
+* (_2023.10_) [Arxiv' 2023] **Learning Multiplex Embeddings on Text-rich Networks with One Text Encoder** [[Paper](https://arxiv.org/abs/2310.06684) | [Code](https://github.com/PeterGriffinJin/METERN-submit)]
+   <details close>
+   <summary>METERN</summary>
+   <p align="center"><img width="75%" src="Figures/METERN.jpg" /></p>
+   <p align="center"><em>The framework of METERN.</em></p>
+   </details>
 * (_2023.11_) [WSDM' 2024] **LLMRec: Large Language Models with Graph Augmentation for Recommendation** [[Paper](https://arxiv.org/abs/2311.00423) | [Code](https://github.com/HKUDS/LLMRec)]
    <details close>
    <summary>LLMRec</summary>
@@ -118,12 +124,6 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <summary>WalkLM</summary>
    <p align="center"><img width="75%" src="Figures/WalkLM.jpg" /></p>
    <p align="center"><em>The framework of WalkLM.</em></p>
-   </details>
-* (_2023.10_) [Arxiv' 2023] **Learning Multiplex Embeddings on Text-rich Networks with One Text Encoder** [[Paper](https://arxiv.org/abs/2310.06684) | [Code](https://github.com/PeterGriffinJin/METERN-submit)]
-   <details close>
-   <summary>METERN</summary>
-   <p align="center"><img width="75%" src="Figures/METERN.jpg" /></p>
-   <p align="center"><em>The framework of METERN.</em></p>
    </details>
 * (_2024.02_) [Arxiv' 2024] **ZeroG: Investigating Cross-dataset Zero-shot Transferability in Graphs** [[Paper](https://arxiv.org/abs/2402.11235)]
    <details close>
@@ -260,11 +260,29 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><img width="75%" src="Figures/Ai et al.jpg" /></p>
    <p align="center"><em>The framework of Ai et al.</em></p>
    </details>
+* (_2024.01_) [Arxiv' 2024] **Efficient Tuning and Inference for Large Language Models on Textual Graphs** [[Paper](https://arxiv.org/abs/2401.15569)]
+   <details close>
+   <summary>ENGINE</summary>
+   <p align="center"><img width="75%" src="Figures/ENGINE.jpg" /></p>
+   <p align="center"><em>The framework of ENGINE.</em></p>
+   </details>
 * (_2024.02_) [Arxiv' 2024] **Let Your Graph Do the Talking: Encoding Structured Data for LLMs** [[Paper](https://arxiv.org/abs/2402.05862)]
    <details close>
    <summary>GraphToken</summary>
    <p align="center"><img width="75%" src="Figures/GraphToken.jpg" /></p>
    <p align="center"><em>The framework of GraphToken.</em></p>
+   </details>
+* (_2024.02_) [Arxiv' 2024] **Rendering Graphs for Graph Reasoning in Multimodal Large Language Models** [[Paper](https://arxiv.org/abs/2402.02130)]
+   <details close>
+   <summary>GITA</summary>
+   <p align="center"><img width="75%" src="Figures/GITA.jpg" /></p>
+   <p align="center"><em>The framework of GITA.</em></p>
+   </details>
+* (_2024.02_) [WWW' 2024] **GraphTranslator: Aligning Graph Model to Large Language Model for Open-ended Tasks** [[Paper](https://arxiv.org/abs/2402.07197) | [Code](https://github.com/alibaba/GraphTranslator)]
+   <details close>
+   <summary>GraphTranslator</summary>
+   <p align="center"><img width="75%" src="Figures/GraphTranslator.jpg" /></p>
+   <p align="center"><em>The framework of GraphTranslator.</em></p>
    </details>
 * (_2024.02_) [Arxiv' 2024] **InstructGraph: Boosting Large Language Models via Graph-centric Instruction Tuning and Preference Alignment** [[Paper](https://arxiv.org/abs/2402.08785) | [Code](https://github.com/wjn1996/InstructGraph)]
    <details close>
@@ -278,17 +296,29 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><img width="75%" src="Figures/LLaGA.jpg" /></p>
    <p align="center"><em>The framework of LLaGA.</em></p>
    </details>
+* (_2024.02_) [WWW' 2024] **Can GNN be Good Adapter for LLMs?** [[Paper](https://arxiv.org/abs/2402.12984)]
+   <details close>
+   <summary>GraphAdapter</summary>
+   <p align="center"><img width="75%" src="Figures/graphadapter.jpg" /></p>
+   <p align="center"><em>The framework of GraphAdapter.</em></p>
+   </details>
 * (_2024.02_) [Arxiv' 2024] **HiGPT: Heterogeneous Graph Language Model** [[Paper](https://arxiv.org/abs/2402.16024) | [Code](https://github.com/HKUDS/HiGPT)]
    <details close>
    <summary>HiGPT</summary>
    <p align="center"><img width="75%" src="Figures/HiGPT.jpg" /></p>
    <p align="center"><em>The framework of HiGPT.</em></p>
    </details>
-* (_2024.02_) [Arxiv' 2024] **GraphWiz: An Instruction-Following Language Model for Graph Problems** [[Paper](https://arxiv.org/abs/2402.16029) | [Code](https://github.com/nuochenpku/Graph-Reasoning-LLM)]
+* (_2024.02_) [Arxiv' 2024] **GraphWiz: An Instruction-Following Language Model for Graph Problems** [[Paper](https://arxiv.org/abs/2402.16029) | [Code](https://github.com/HKUDS/OpenGraph)]
    <details close>
    <summary>GraphWiz</summary>
    <p align="center"><img width="75%" src="Figures/GraphWiz.jpg" /></p>
    <p align="center"><em>The framework of GraphWiz.</em></p>
+   </details>
+* (_2024.03_) [Arxiv' 2024] **OpenGraph: Towards Open Graph Foundation Models** [[Paper](https://arxiv.org/abs/2403.01121) | [Code](https://github.com/nuochenpku/Graph-Reasoning-LLM)]
+   <details close>
+   <summary>OpenGraph</summary>
+   <p align="center"><img width="75%" src="Figures/OpenGraph.jpg" /></p>
+   <p align="center"><em>The framework of OpenGraph.</em></p>
    </details>
 
 ## GNN-LLM Alignment
