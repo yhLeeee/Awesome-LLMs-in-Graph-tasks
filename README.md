@@ -125,6 +125,12 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><img width="75%" src="Figures/WalkLM.jpg" /></p>
    <p align="center"><em>The framework of WalkLM.</em></p>
    </details>
+* (_2024.01_) [Arxiv' 2024] **Efficient Tuning and Inference for Large Language Models on Textual Graphs** [[Paper](https://arxiv.org/abs/2401.15569)]
+   <details close>
+   <summary>ENGINE</summary>
+   <p align="center"><img width="75%" src="Figures/ENGINE.jpg" /></p>
+   <p align="center"><em>The framework of ENGINE.</em></p>
+   </details>
 * (_2024.02_) [Arxiv' 2024] **ZeroG: Investigating Cross-dataset Zero-shot Transferability in Graphs** [[Paper](https://arxiv.org/abs/2402.11235)]
    <details close>
    <summary>ZeroG</summary>
@@ -259,12 +265,6 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <summary>Framework</summary>
    <p align="center"><img width="75%" src="Figures/Ai et al.jpg" /></p>
    <p align="center"><em>The framework of Ai et al.</em></p>
-   </details>
-* (_2024.01_) [Arxiv' 2024] **Efficient Tuning and Inference for Large Language Models on Textual Graphs** [[Paper](https://arxiv.org/abs/2401.15569)]
-   <details close>
-   <summary>ENGINE</summary>
-   <p align="center"><img width="75%" src="Figures/ENGINE.jpg" /></p>
-   <p align="center"><em>The framework of ENGINE.</em></p>
    </details>
 * (_2024.02_) [Arxiv' 2024] **Let Your Graph Do the Talking: Encoding Structured Data for LLMs** [[Paper](https://arxiv.org/abs/2402.05862)]
    <details close>
