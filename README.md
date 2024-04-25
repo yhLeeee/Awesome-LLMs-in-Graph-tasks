@@ -12,6 +12,8 @@ It's based on our survey paper: [A Survey of Graph Meets Large Language Model: P
 
 > We will try to make this list updated frequently. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
 
+> Our survey has been accepted by IJCAI 2024 survey track.
+
 ## How can LLMs help improve graph-related tasks?
 
 With the help of LLMs, there has been a notable shift in the way we interact with graphs, particularly those containing nodes associated with text attributes. The integration of LLMs with traditional GNNs can be mutually beneficial and enhance graph learning. While GNNs are proficient at capturing structural information, they primarily rely on semantically constrained embeddings as node features, limiting their ability to express the full complexities of the nodes. Incorporating LLMs, GNNs can be enhanced with stronger node features that effectively capture both structural and contextual aspects. On the other hand, LLMs excel at encoding text but often struggle to capture structural information present in graph data. Combining GNNs with LLMs can leverage the robust textual understanding of LLMs while harnessing GNNs' ability to capture structural relationships, leading to more comprehensive and powerful graph learning.
@@ -340,6 +342,13 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <summary>Text2Mol</summary>
    <p align="center"><img width="75%" src="Figures/Text2Mol.jpg" /></p>
    <p align="center"><em>The framework of Text2Mol.</em></p>
+   </details>
+* (_2022.07_) [ACL' 2023] **Hidden Schema Networks**
+[[Paper](https://arxiv.org/abs/2207.03777) | [Code](https://github.com/ramsesjsf/HiddenSchemaNetworks)]
+   <details close>
+   <summary>HSN</summary>
+   <p align="center"><img width="75%" src="Figures/HSN.png" /></p>
+   <p align="center"><em>The framework of HSN.</em></p>
    </details>
 * (_2022.09_) [Arxiv' 2022] **A Molecular Multimodal Foundation Model Associating Molecule Graphs with Natural Language** 
 [[Paper](https://arxiv.org/abs/2209.05481) | [Code](https://github.com/BingSu12/MoMu)]
