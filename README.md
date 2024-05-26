@@ -196,7 +196,7 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><img width="75%" src="Figures/Huang et al.jpg" /></p>
    <p align="center"><em>The designed prompts of Huang et al.</em></p>
    </details>
-* (_2023.10_) [Arxiv' 2023] **GraphText: Graph Reasoning in Text Space** [[Paper](https://arxiv.org/abs/2310.01089)]
+* (_2023.10_) [Arxiv' 2023] **GraphText: Graph Reasoning in Text Space** [[Paper](https://arxiv.org/abs/2310.01089)] | [Code](https://github.com/AndyJZhao/GraphText)]
    <details close>
    <summary>GraphText</summary>
    <p align="center"><img width="75%" src="Figures/GraphText.jpg" /></p>
