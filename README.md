@@ -433,6 +433,13 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><em>The framework of LLM-GNN.</em></p>
    </details>
 
+* (_2023.05_) [Arxiv' 2024] **Entity Alignment with Noisy Annotations from Large Language Models** [[Paper](https://arxiv.org/pdf/2405.16806) | [Code](https://github.com/chensyCN/llm4ea_official)]
+   <details close>
+   <summary>LLM4EA</summary>
+   <p align="center"><img width="75%" src="Figures/LLM4EA.jpg" /></p>
+   <p align="center"><em>The framework of LLM4EA.</em></p>
+   </details>
+
 ### LLM as Controller
 
 * (_2023.10_) [Arxiv' 2023] **Graph Neural Architecture Search with GPT-4** [[Paper](https://arxiv.org/abs/2310.01436)]
