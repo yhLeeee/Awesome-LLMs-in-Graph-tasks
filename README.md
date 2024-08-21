@@ -149,7 +149,7 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
 * (_2024.02_) [CIKM' 2024] **Distilling Large Language Models for Text-Attributed Graph Learning** [[Paper](https://arxiv.org/abs/2402.12022)]
    <details close>
    <summary>Pan, et al.</summary>
-   <p align="center"><img width="75%" src="Figures/Pan_etal.pdf" /></p>
+   <p align="center"><img width="75%" src="Figures/Pan_etal.jpg" /></p>
    <p align="center"><em>The framework of Pan, et al.</em></p>
    </details>
    
