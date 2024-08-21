@@ -146,6 +146,15 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><em>The framework of UniGraph.</em></p>
    </details>
 
+* (_2024.02_) [CIKM' 2024] **Distilling Large Language Models for Text-Attributed Graph Learning** [[Paper](https://arxiv.org/abs/2402.12022)]
+   <details close>
+   <summary>Pan_etal</summary>
+   <p align="center"><img width="75%" src="Figures/Pan_etal.jpg" /></p>
+   <p align="center"><em>The framework of Pan, et al.</em></p>
+   </details>
+   
+
+
 ## LLM as Predictor
 
 * (_2023.05_) [NeurIPS' 2023] **Can language models solve graph problems in natural language?** [[Paper](https://arxiv.org/abs/2305.10037) | [Code](https://github.com/Arthur-Heng/NLGraph)]
