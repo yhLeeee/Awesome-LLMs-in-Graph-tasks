@@ -478,12 +478,20 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
 
 ### LLM for Robustness 
 
-- (_2024.08_) [Arxiv' 2024] **Can Large Language Models Improve the Adversarial Robustness of Graph Neural Networks?** [[Paper](https://arxiv.org/pdf/2408.08685)]
+- (_2024.05_) [Arxiv' 2024] **Intruding with Words: Towards Understanding Graph Injection Attacks at the Text Level** [[Paper](https://arxiv.org/abs/2405.16405)]
+   <details close>
+   <summary>Lei, et al.</summary>
+   <p align="center"><img width="75%" src="Figures/Lei, et al.jpg" /></p>
+   <p align="center"><em>The framework of Lei, et al..</em></p>
+   </details>
+
+- (_2024.08_) [Arxiv' 2024] **Can Large Language Models Improve the Adversarial Robustness of Graph Neural Networks?** [[Paper](https://arxiv.org/abs/2408.08685)]
    <details close>
    <summary>LLM4RGNN</summary>
    <p align="center"><img width="75%" src="Figures/LLM4RGNN.jpg" /></p>
    <p align="center"><em>The framework of LLM4RGNN.</em></p>
    </details>
+
 
 
 ## Other Repos
