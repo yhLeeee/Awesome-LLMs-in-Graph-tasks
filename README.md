@@ -332,6 +332,13 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><em>The framework of OpenGraph.</em></p>
    </details>
 
+* (_2024.07_) [Arxiv' 2024] **GOFA: A Generative One-For-All Model for Joint Graph Language Modeling** [[Paper](https://arxiv.org/abs/2407.09709) | [Code](https://github.com/JiaruiFeng/GOFA)]
+   <details close>
+   <summary>GOFA</summary>
+   <p align="center"><img width="75%" src="Figures/GOFA.jpg" /></p>
+   <p align="center"><em>The framework of GOFA.</em></p>
+   </details>
+   
 ## GNN-LLM Alignment
 * (_2020.08_) [Arxiv' 2020] **Graph-based Modeling of Online Communities for Fake News Detection** [[Paper](https://arxiv.org/abs/2008.06274) | [Code](https://github.com/shaanchandra/SAFER)]
    <details close>
