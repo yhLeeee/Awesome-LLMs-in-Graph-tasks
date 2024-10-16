@@ -499,6 +499,14 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><em>The framework of LLM4RGNN.</em></p>
    </details>
 
+### LLM for Task Planning 
+
+- (_2024.05_) [NeurIPS' 2024] **Can Graph Learning Improve Planning in LLM-based Agents?** [[Paper](https://arxiv.org/abs/2405.19119) | [Code](https://github.com/WxxShirley/GNN4TaskPlan)]
+  <details close>
+  <summary>GNN4TaskPlan</summary>
+  <p align="center"><img width="75%" src="Figures/GNN4TaskPlan.jpg" /></p>
+  <p align="center"><em>The definition of task planning and the proposed framework.</em></p>
+  </details>
 
 
 ## Other Repos
@@ -513,7 +521,7 @@ We note that several repos also summarize papers on the integration of LLMs and 
 
 We highly recommend a repository that summarizes the work on **Graph Prompt**, which is very close to Graph-LLM.
 
-- [Awesome-Graph-Prompt](https://github.com/WxxShirley/Awesome-Graph-Prompt), created by [Xixi Wu](https://wxxshirley.github.io/) from FDU.
+- [Awesome-Graph-Prompt](https://github.com/WxxShirley/Awesome-Graph-Prompt), created by [Xixi Wu](https://wxxshirley.github.io/) from CUHK.
 
 
 ## Contributing
