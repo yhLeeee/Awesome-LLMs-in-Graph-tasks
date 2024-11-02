@@ -153,7 +153,13 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><em>The framework of Pan, et al.</em></p>
    </details>
    
-
+* (_2024.10_) [CIKM' 2024] **When LLM Meets Hypergraph: A Sociological Analysis on Personality via Online Social Networks** [[Paper](https://arxiv.org/abs/2407.03568) | [Code](https://github.com/ZhiyaoShu/LLM-HGNN-MBTI)]
+   <details close>
+   <summary>Shu, et al.</summary>
+   <p align="center"><img width="75%" src="Figures/shu2024llm.jpg" /></p>
+   <p align="center"><em>The framework of Shu, et al.</em></p>
+   </details>
+   
 
 ## LLM as Predictor
 
