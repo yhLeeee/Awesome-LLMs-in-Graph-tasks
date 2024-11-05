@@ -443,6 +443,12 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><em>The framework of THLM.</em></p>
    </details>
 
+## Benchmarks
+
+* (_2024.7_) [NeurIPS' 2024] **GLBench: A Comprehensive Benchmark for Graph with Large Language Models** [[Paper](https://arxiv.org/abs/2407.07457) | [Code](https://github.com/NineAbyss/GLBench)]
+  
+* (_2024.05_) [NeurIPS' 2024] **TEG-DB: A Comprehensive Dataset and Benchmark of Textual-Edge Graphs** [[Paper](https://arxiv.org/abs/2406.10310)][[Code](https://github.com/Zhuofeng-Li/TEG-Benchmark/tree/main)]
+   
 
 ## Others
 
