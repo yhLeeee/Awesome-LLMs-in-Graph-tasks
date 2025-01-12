@@ -345,6 +345,13 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><em>The framework of GOFA.</em></p>
    </details>
    
+* (_2024.10_) [Arxiv' 2024] **Can Graph Descriptive Order Affect Solving Graph Problems with LLMs?** [[Paper](https://arxiv.org/abs/2402.07140)]
+   <details close>
+   <summary>GraphDO</summary>
+   <p align="center"><img width="75%" src="Figures/GraphDO.jpg" /></p>
+   <p align="center"><em>The framework of GraphDO.</em></p>
+   </details>
+   
 ## GNN-LLM Alignment
 * (_2020.08_) [Arxiv' 2020] **Graph-based Modeling of Online Communities for Fake News Detection** [[Paper](https://arxiv.org/abs/2008.06274) | [Code](https://github.com/shaanchandra/SAFER)]
    <details close>
@@ -359,84 +366,84 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><em>The framework of GraphFormers.</em></p>
    </details>
 * (_2021.11_) [EMNLP' 2021] **Text2Mol: Cross-Modal Molecule Retrieval with Natural Language Queries** 
-[[Paper](https://aclanthology.org/2021.emnlp-main.47/) | [Code](https://github.com/cnedwards/text2mol)]
+  [[Paper](https://aclanthology.org/2021.emnlp-main.47/) | [Code](https://github.com/cnedwards/text2mol)]
    <details close>
    <summary>Text2Mol</summary>
    <p align="center"><img width="75%" src="Figures/Text2Mol.jpg" /></p>
    <p align="center"><em>The framework of Text2Mol.</em></p>
    </details>
 * (_2022.07_) [ACL' 2023] **Hidden Schema Networks**
-[[Paper](https://arxiv.org/abs/2207.03777) | [Code](https://github.com/ramsesjsf/HiddenSchemaNetworks)]
+  [[Paper](https://arxiv.org/abs/2207.03777) | [Code](https://github.com/ramsesjsf/HiddenSchemaNetworks)]
    <details close>
    <summary>HSN</summary>
    <p align="center"><img width="75%" src="Figures/HSN.png" /></p>
    <p align="center"><em>The framework of HSN.</em></p>
    </details>
 * (_2022.09_) [Arxiv' 2022] **A Molecular Multimodal Foundation Model Associating Molecule Graphs with Natural Language** 
-[[Paper](https://arxiv.org/abs/2209.05481) | [Code](https://github.com/BingSu12/MoMu)]
+  [[Paper](https://arxiv.org/abs/2209.05481) | [Code](https://github.com/BingSu12/MoMu)]
    <details close>
    <summary>MoMu</summary>
    <p align="center"><img width="75%" src="Figures/MoMu.jpg" /></p>
    <p align="center"><em>The framework of MoMu.</em></p>
    </details>
 * (_2022.10_) [ICLR' 2023] **Learning on Large-scale Text-attributed Graphs via Variational Inference** 
-[[Paper](https://arxiv.org/abs/2210.14709) | [Code](https://github.com/AndyJZhao/GLEM)]
+  [[Paper](https://arxiv.org/abs/2210.14709) | [Code](https://github.com/AndyJZhao/GLEM)]
    <details close>
    <summary>GLEM</summary>
    <p align="center"><img width="75%" src="Figures/GLEM.jpg" /></p>
    <p align="center"><em>The framework of GLEM.</em></p>
    </details>
 * (_2022.12_) [NMI' 2023] **Multi-modal Molecule Structure-text Model for Text-based Editing and Retrieval** 
-[[Paper](https://arxiv.org/abs/2212.10789) | [Code](https://github.com/chao1224/MoleculeSTM)]
+  [[Paper](https://arxiv.org/abs/2212.10789) | [Code](https://github.com/chao1224/MoleculeSTM)]
    <details close>
    <summary>MoleculeSTM</summary>
    <p align="center"><img width="75%" src="Figures/MoleculeSTM.jpg" /></p>
    <p align="center"><em>The framework of MoleculeSTM.</em></p>
    </details>
 * (_2023.04_) [Arxiv' 2023] **Train Your Own GNN Teacher: Graph-Aware Distillation on Textual Graphs** 
-[[Paper](https://arxiv.org/abs/2304.10668) | [Code](https://github.com/cmavro/GRAD)]
+  [[Paper](https://arxiv.org/abs/2304.10668) | [Code](https://github.com/cmavro/GRAD)]
    <details close>
    <summary>GRAD</summary>
    <p align="center"><img width="75%" src="Figures/GRAD.jpg" /></p>
    <p align="center"><em>The framework of GRAD.</em></p>
    </details>
 * (_2023.05_) [ACL' 2023] **PATTON : Language Model Pretraining on Text-Rich Networks** 
-[[Paper](https://arxiv.org/abs/2305.12268) | [Code](https://github.com/PeterGriffinJin/Patton)]
+  [[Paper](https://arxiv.org/abs/2305.12268) | [Code](https://github.com/PeterGriffinJin/Patton)]
    <details close>
    <summary>Patton</summary>
    <p align="center"><img width="75%" src="Figures/Patton.jpg" /></p>
    <p align="center"><em>The framework of Patton.</em></p>
    </details>
 * (_2023.05_) [Arxiv' 2023] **ConGraT: Self-Supervised Contrastive Pretraining for Joint Graph and Text Embeddings** 
-[[Paper](https://arxiv.org/abs/2305.14321) | [Code](https://github.com/wwbrannon/congrat)]
+  [[Paper](https://arxiv.org/abs/2305.14321) | [Code](https://github.com/wwbrannon/congrat)]
    <details close>
    <summary>ConGraT</summary>
    <p align="center"><img width="75%" src="Figures/ConGraT.jpg" /></p>
    <p align="center"><em>The framework of ConGraT.</em></p>
    </details>
 * (_2023.07_) [Arxiv' 2023] **Prompt Tuning on Graph-augmented Low-resource Text Classification** 
-[[Paper](https://arxiv.org/abs/2307.10230) | [Code](https://github.com/WenZhihao666/G2P2-conditional)]
+  [[Paper](https://arxiv.org/abs/2307.10230) | [Code](https://github.com/WenZhihao666/G2P2-conditional)]
    <details close>
    <summary>G2P2</summary>
    <p align="center"><img width="75%" src="Figures/G2P2.jpg" /></p>
    <p align="center"><em>The framework of G2P2.</em></p>
    </details>
 * (_2023.10_) [EMNLP' 2023] **GRENADE: Graph-Centric Language Model for Self-Supervised Representation Learning on Text-Attributed Graphs** 
-[[Paper](https://arxiv.org/abs/2310.15109) | [Code](https://github.com/bigheiniu/GRENADE)]
+  [[Paper](https://arxiv.org/abs/2310.15109) | [Code](https://github.com/bigheiniu/GRENADE)]
    <details close>
    <summary>GRENADE</summary>
    <p align="center"><img width="75%" src="Figures/GRENADE.jpg" /></p>
    <p align="center"><em>The framework of GRENADE.</em></p>
    </details>
 * (_2023.10_) [WWW' 2024] **Representation Learning with Large Language Models for Recommendation** 
-[[Paper](https://arxiv.org/abs/2310.15950) | [Code](https://github.com/HKUDS/RLMRec)]
+  [[Paper](https://arxiv.org/abs/2310.15950) | [Code](https://github.com/HKUDS/RLMRec)]
    <details close>
    <summary>RLMRec</summary>
    <p align="center"><img width="75%" src="Figures/RLMRec.jpg" /></p>
    <p align="center"><em>The framework of RLMRec.</em></p>
    </details>
 * (_2023.10_) [EMNLP' 2023] **Pretraining Language Models with Text-Attributed Heterogeneous Graphs** 
-[[Paper](https://arxiv.org/abs/2310.12580) | [Code](https://github.com/Hope-Rita/THLM)]
+  [[Paper](https://arxiv.org/abs/2310.12580) | [Code](https://github.com/Hope-Rita/THLM)]
    <details close>
    <summary>THLM</summary>
    <p align="center"><img width="75%" src="Figures/THLM.jpg" /></p>
@@ -448,7 +455,7 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
 * (_2024.07_) [NeurIPS' 2024] **GLBench: A Comprehensive Benchmark for Graph with Large Language Models** [[Paper](https://arxiv.org/abs/2407.07457) | [Code](https://github.com/NineAbyss/GLBench)]
   
 * (_2024.05_) [NeurIPS' 2024] **TEG-DB: A Comprehensive Dataset and Benchmark of Textual-Edge Graphs** [[Paper](https://arxiv.org/abs/2406.10310)][[Code](https://github.com/Zhuofeng-Li/TEG-Benchmark/tree/main)]
-   
+  
 
 ## Others
 
