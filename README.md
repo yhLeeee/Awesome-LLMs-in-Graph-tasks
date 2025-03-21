@@ -351,13 +351,6 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><img width="75%" src="Figures/GraphDO.jpg" /></p>
    <p align="center"><em>The framework of GraphDO.</em></p>
    </details>
-
-* (_2025.1_) [COLING 2025]  **GraCoRe: Benchmarking Graph Comprehension and Complex Reasoning in Large Language Models** [[Paper](https://aclanthology.org/2025.coling-main.531/)]
-   <details close>
-   <summary>GraCoRe</summary>
-   <p align="center"><img width="75%" src="Figures/GraCoRe.jpg" /></p>)
-   <p align="center"><em>The framework of GraCoRe.</em></p>
-   </details>
    
 ## GNN-LLM Alignment
 * (_2020.08_) [Arxiv' 2020] **Graph-based Modeling of Online Communities for Fake News Detection** [[Paper](https://arxiv.org/abs/2008.06274) | [Code](https://github.com/shaanchandra/SAFER)]
@@ -458,11 +451,13 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    </details>
 
 ## Benchmarks
+* (_2025.1_) [COLING 2025]  **GraCoRe: Benchmarking Graph Comprehension and Complex Reasoning in Large Language Models** [[Paper](https://aclanthology.org/2025.coling-main.531/)]
 
 * (_2024.07_) [NeurIPS' 2024] **GLBench: A Comprehensive Benchmark for Graph with Large Language Models** [[Paper](https://arxiv.org/abs/2407.07457) | [Code](https://github.com/NineAbyss/GLBench)]
   
 * (_2024.05_) [NeurIPS' 2024] **TEG-DB: A Comprehensive Dataset and Benchmark of Textual-Edge Graphs** [[Paper](https://arxiv.org/abs/2406.10310)][[Code](https://github.com/Zhuofeng-Li/TEG-Benchmark/tree/main)]
-  
+
+
 
 ## Others
 
