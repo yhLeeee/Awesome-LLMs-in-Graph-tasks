@@ -351,6 +351,13 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    <p align="center"><img width="75%" src="Figures/GraphDO.jpg" /></p>
    <p align="center"><em>The framework of GraphDO.</em></p>
    </details>
+
+* (_2025.1_) [COLING 2025]  **GraCoRe: Benchmarking Graph Comprehension and Complex Reasoning in Large Language Models** [[Paper](https://aclanthology.org/2025.coling-main.531/)]
+   <details close>
+   <summary>GraCoRe</summary>
+   <p align="center"><img width="75%" src="Figures/GraCoRe.jpg" /></p>)
+   <p align="center"><em>The framework of GraCoRe.</em></p>
+   </details>
    
 ## GNN-LLM Alignment
 * (_2020.08_) [Arxiv' 2020] **Graph-based Modeling of Online Communities for Fake News Detection** [[Paper](https://arxiv.org/abs/2008.06274) | [Code](https://github.com/shaanchandra/SAFER)]
