@@ -451,7 +451,7 @@ With the help of LLMs, there has been a notable shift in the way we interact wit
    </details>
 
 ## Benchmarks
-* (_2025.1_) [COLING 2025]  **GraCoRe: Benchmarking Graph Comprehension and Complex Reasoning in Large Language Models** [[Paper](https://aclanthology.org/2025.coling-main.531/)]
+* (_2025.1_) [COLING 2025]  **GraCoRe: Benchmarking Graph Comprehension and Complex Reasoning in Large Language Models** [[Paper](https://aclanthology.org/2025.coling-main.531/) | [Code](https://github.com/ZIKEYUAN/GraCoRe)]
 
 * (_2024.07_) [NeurIPS' 2024] **GLBench: A Comprehensive Benchmark for Graph with Large Language Models** [[Paper](https://arxiv.org/abs/2407.07457) | [Code](https://github.com/NineAbyss/GLBench)]
   
